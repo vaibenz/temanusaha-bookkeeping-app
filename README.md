@@ -2,7 +2,7 @@
 
 A mobile bookkeeping and financing readiness app for rural Indonesian merchants, built for **NTU PEAK (Monee Team 1)**.
 
-**Live demo:** `https://vaibenz.github.io/temanusaha-bookkeeping-app/` (tap *Explore with a sample warung*)
+**Live demo:** [vaibenz.github.io/temanusaha-bookkeeping-app](https://vaibenz.github.io/temanusaha-bookkeeping-app/) (tap *Explore with a sample warung*)
 
 <p>
 <img src="docs/today.png" width="24%">
